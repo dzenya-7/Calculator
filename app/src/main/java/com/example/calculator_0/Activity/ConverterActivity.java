@@ -31,7 +31,8 @@ public class ConverterActivity extends AppCompatActivity {
         TextView textView=findViewById(R.id.textView);
         Spinner first_spinner= findViewById(R.id.spinner);
         Spinner second_spinner = findViewById(R.id.spinner2);
-        ConverterFacade.convert(editText,textView,first_spinner,second_spinner,this,arr);
+        ConverterFacade cF = new ConverterFacade();
+        cF.convert(editText,textView,first_spinner,second_spinner,this,arr);
 
     }
 
