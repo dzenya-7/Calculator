@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Calculator_0</string>
+    <string name="Convertor">Конвертор</string>
+    <string name="a">=</string>
+    <string name="Res">Результат</string>
+    <string name="Input">Введенное значение</string>
+    <string name="Convert">Перевести</string>
+    <string name="Back">Назад</string>
+    <string name="calculator">Калькулятор</string>
+    <string name="converter">Конвертер величин</string>
+    <string name="math_function">Математические функции</string>
+    <string name="first_edit">Первая величина</string>
+    <string name="secont_edit">Вторая величина</string>
+    <string name="toast_text">Выбрано текущее окно</string>
+    <string name="calculate">Посчитать</string>
+    <string name="change_text">Выбор</string>
+    <string name="button">Button</string>
+    <string name="System">Системы слисления</string>
+    <string name="Logs">Логарифмы</string>
+    <string name="Trigonometry">Тригонометрия</string>
+    <string-array name="uunit">
+        <item>Км</item>
+        <item>М</item>
+        <item>Ярд</item>
+        <item>Фут</item>
+        <item>Дюйм</item>
+        <item>См</item>
+        <item>Мм</item>
+    </string-array>
+    <string-array name="m_function_category">
+        <item>Тригонометрия</item>
+        <item>Логарифмы</item>
+        <item>Системы счисления</item>
+    </string-array>
+    <string-array name="trigonometry_function">
+        <item>Синус</item>
+        <item>Косинус</item>
+        <item>Тангенс</item>
+        <item>Котангенс</item>
+    </string-array>
+    <string-array name="angle_measure">
+        <item>Градусы</item>
+        <item>Грады</item>
+        <item>Радианы</item>
+    </string-array>
+    <string-array name="system_array">
+        <item>2</item>
+        <item>10</item>
+        <item>3</item>
+        <item>8</item>
+        <item>12</item>
+        <item>13</item>
+        <item>16</item>
+        <item>20</item>
+    </string-array>
+</resources>
